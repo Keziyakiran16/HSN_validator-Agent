@@ -1,2 +1,3 @@
 # HSN_validator-Agent
-I uploaded the dataset to GitHub and used the raw link so that my HSN Code Validator Agent can access the data directly from an online source. This allows the agent to validate HSN codes without needing a local file, making the solution more portable, easier to deploy, and accessible from anywhere
+So in the end, this project isn’t just about writing lines of code.It’s about building something intelligent and useful.
+I’ve created a smart assistant that understands real-world input, looks up accurate data, and helps validate HSN codes quickly and reliably. From organizing the project structure to connecting it with AI tools and testing it both on the terminal and through ADK Web — everything was built with clarity and purpose.
